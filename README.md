@@ -1,4 +1,4 @@
-# Foobar
+# The Simpsons Birthday Card
 
 The Simpsons Birthday Card is a project built for randomly retrieving a quote from a Simpsons character.
 

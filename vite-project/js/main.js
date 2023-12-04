@@ -1,3 +1,3 @@
-import { fetchData } from "./catch_joke";
+import { fetchData } from "/catch_joke";
 
 fetchData();

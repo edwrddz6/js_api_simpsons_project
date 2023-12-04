@@ -1,5 +1,6 @@
 {
   "name": "vite-project",
+  "author": "Edward Diaz",
   "private": true,
   "version": "0.0.0",
   "type": "module",

@@ -36,6 +36,12 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## References
+
+[CDN Fonts The Simpsons Font](https://www.cdnfonts.com/homer-simpson-revised.font)
+
+[CodeWizardsHQ Holiday Card CSS]([https://www.cdnfonts.com/homer-simpson-revised.font](https://www.codewizardshq.com/html-css-tutorial-holiday-card/)https://www.codewizardshq.com/html-css-tutorial-holiday-card/)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

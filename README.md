@@ -40,7 +40,7 @@ Please make sure to update tests as appropriate.
 
 [CDN Fonts The Simpsons Font](https://www.cdnfonts.com/homer-simpson-revised.font)
 
-[CodeWizardsHQ Holiday Card CSS]([https://www.cdnfonts.com/homer-simpson-revised.font](https://www.codewizardshq.com/html-css-tutorial-holiday-card/)https://www.codewizardshq.com/html-css-tutorial-holiday-card/)
+[CodeWizardsHQ Holiday Card CSS](https://www.codewizardshq.com/html-css-tutorial-holiday-card/)
 
 ## License
 

@@ -11,7 +11,7 @@ You can access the project's webpage without having to download it.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+git clone git@github.com:edwrddz6/js_api_simpsons_project.git
 ```
 
 ## Usage

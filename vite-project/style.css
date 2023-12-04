@@ -6,11 +6,21 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Homer Simpson Revised', sans-serif;
   background-image: url('simpsons-background.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+#headImage {
+  max-width: 700px;
+  height: auto;
+  position: fixed;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
 }
 
 .front {
@@ -54,14 +64,25 @@ body {
   box-shadow: 0 1em 3em 0 rgba(0, 0, 0, .2);
 }
 
-.message {
-  margin-top: 30px;
-  color: #900909;
-}
-h5 {
-  font-family: 'Cookie', serif;
+.message, h5, p {
+  overflow: hidden;
+  word-wrap: break-word;
+  max-width: 100%;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
   font-size: 20px;
+  color: #ffd90f;
 }
-p {
-   font-size: 20px;
+
+button {
+  position: absolute;
+  left: 45%;
+  bottom: 15%;
+  padding: 5px 10px;
+  display: inline-block;
+  width: auto;
+  font-family: 'Homer Simpson Revised', sans-serif;
+  font-size: 20px;
+  border-radius: 8px;
 }

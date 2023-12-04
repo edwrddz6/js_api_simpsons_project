@@ -1,13 +1,28 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="app"></div>
-    <script type="module" src="/main.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Simpsons Quote Card</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+
+<body>
+
+    <div class="card">
+      <div class="back">
+        <div class="message">
+          <h5>Dear Friend,</h5>
+            <p id="display-joke"></p>
+            <h5>Love, Dad</h5>
+        </div>
+      </div>
+      <div class="page"></div>
+      <div class="front"></div>
+    </div>
+
+  <script type="module" src="/main.js"></script>
+  <script type="module" src="/catch_joke.js"></script>
+</body>
+
 </html>
